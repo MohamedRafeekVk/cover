@@ -45,21 +45,29 @@ Publish the website in the LocalHost.
 <body>
     <div class="poster">
         <div class="header">
+            <h5>EXPERT INSIGHT</h5>
+            <h5>THIRD EDITION</h5>
             <h2>BOOK COVER</h2>
         </div>
         <div class="content">
-            <h1>Psychology Of Money</h1>
+            <h1>HTML AND CSS</h1>
             <p>
-                The Psychology of Money explores how people's attitudes, behaviors, and emotions shape their financial decisions, often defying logic and numbers. It emphasizes that wealth is less about income and more about habits, patience, and the ability to control emotions like greed and fear.
+                HTML (HyperText Markup Language) is the backbone of web pages, used to structure and define the content like text, images, and links.
+CSS (Cascading Style Sheets) styles the HTML elements, controlling layout, colors, fonts, and visual effects to enhance the look and feel.
+Together, HTML and CSS form the foundation of front-end web development, creating functional and visually appealing websites.
+
+
                 
             </p>
         </div>
         <div class="edition">
-            <p>NAME:MOHAMED RAFEEK</p>
-            <p> REF.NO:24900640</p>
+            
         </div>
         <div class="author">
-            <p>SEC</p>
+         
+            <p>NAME:MOHAMED RAFEEK <br>
+                REF.NO:24900640
+            </p>
         </div>
         <div class="wave">
             <div class="image"><img src="./Photo For Book Cover.jpg" alt="image"></div>
@@ -158,7 +166,9 @@ img {
 ```
 
 ## OUTPUT:
-![alt text](<Screenshot (24).png>)
+![Screenshot (25)](https://github.com/user-attachments/assets/9ff74c76-d887-4418-b43d-56791cb2c152)
+
+
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
